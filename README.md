@@ -1,6 +1,6 @@
 # Jarvis: The Ultimate Python Voice Assistant
 
-Welcome to **Jarvis**, your personal Python-powered voice assistant! This project is part of the "Ultimate Python Course" and demonstrates how to build a smart assistant capable of responding to your commands, playing music, and more.
+Welcome to **Jarvis**, your personal Python-powered voice assistant! This project is demonstrates how to build a smart assistant capable of responding to your commands, playing music, and more.
 
 ## 🚀 Features
 
